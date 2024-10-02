@@ -17,11 +17,15 @@
   <img src="https://img.shields.io/badge/-C%23-9879D9?style=for-the-badge&logo=Csharp&logoColor=FFFFFF"/>
 </div>
 
+<br>
+
 <div align="center"><h3>Tech Skills: Data</h3></div>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
+<br>
 
 <div align="center"><h3>Tech Skills: FrontEnd</h3></div>
 <div align="center">
@@ -29,6 +33,8 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
 </div>
+
+<br>
 
 <div align="center"><h3>Tech Skills: Extra</h3></div>
 <div align="center">
