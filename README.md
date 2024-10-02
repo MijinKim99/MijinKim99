@@ -14,7 +14,7 @@
 <div align="center"><h3>Tech Skills: Game</h3></div>
 <div align="center">
   <img src="https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=#FFFFFF">
-  <img src="https://img.shields.io/badge/-C++-9879D9.svg?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-C%23-9879D9?style=for-the-badge&logo=Csharp&logoColor=FFFFFF"/>
 </div>
 
 <div align="center"><h3>Tech Skills: Data</h3></div>
