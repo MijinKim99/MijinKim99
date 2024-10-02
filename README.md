@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?types=venom&fontColor=#18efcd&height=300&section=header&text=Mijin%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice)
 <!--
 **Mijin-Ewha/Mijin-Ewha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
