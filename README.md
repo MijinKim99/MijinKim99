@@ -6,32 +6,15 @@
 
 <div align="center">
   <h3>Portfolio</h3>
-  <a href="https://www.notion.so/Hi-I-m-Mijin-11393fbb4d4380d4a37bcd82795aebe9?pvs=4"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=#FFFFFF"></a>
+  <a href="https://www.notion.so/Hello-I-m-Mijin-Kim-2511b310fe61801c9c77de7957baed5b?source=copy_link"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=#FFFFFF"></a>
 </div>
 
 <br><br>
 
 <div align="center"><h3>Tech Skills: Game</h3></div>
 <div align="center">
-  <img src="https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=#FFFFFF">
-  <img src="https://img.shields.io/badge/-C%23-9879D9?style=for-the-badge&logo=Csharp&logoColor=FFFFFF"/>
-</div>
-
-<br>
-
-<div align="center"><h3>Tech Skills: Data</h3></div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-
-<br>
-
-<div align="center"><h3>Tech Skills: FrontEnd</h3></div>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Unreal-000000?style=for-the-badge&logo=unreal&logoColor=#FFFFFF">
+  <img src="https://img.shields.io/badge/-C++23-9879D9?style=for-the-badge&logo=C++&logoColor=FFFFFF"/>
 </div>
 
 <br>
