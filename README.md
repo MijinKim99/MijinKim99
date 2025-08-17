@@ -14,16 +14,16 @@
 <div align="center"><h3>Tech Skills: Game</h3></div>
 <div align="center">
   <img src="https://img.shields.io/badge/Unreal-000000?style=for-the-badge&logo=unreal&logoColor=#FFFFFF">
-  <img src="https://img.shields.io/badge/-C++23-9879D9?style=for-the-badge&logo=C++&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-C++-9879D9?style=for-the-badge&logo=C++&logoColor=FFFFFF"/>
 </div>
 
 <br>
 
 <div align="center"><h3>Tech Skills: Extra</h3></div>
 <div align="center">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Rider?style=for-the-badge&logo=rider%20IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/Github?style=for-the-badge&logo=github&logoColor=white">
 </div>
 <!--
 **Mijin-Ewha/Mijin-Ewha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
