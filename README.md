@@ -3,13 +3,22 @@
 </div>
 
 <br><br>
-
-<br><br>
+<h3 align="center">Portfolio</h3>
+<div align="center">
+  <a href="https://www.notion.so/Hello-I-m-Mijin-Kim-2511b310fe61801c9c77de7957baed5b?source=copy_link">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=#FFFFFF">
+  </a>
+</div>
+<br>
 
 <div align="center"><h3>Tech Skills: Game</h3></div>
 <div align="center">
   <img src="https://img.shields.io/badge/Unreal-black?style=for-the-badge&logo=unrealengine&logoColor=white">
   <img src="https://img.shields.io/badge/-C++-9879D9?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=FFFFFF"/>
 </div>
 
 <br>
