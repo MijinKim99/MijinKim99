@@ -6,7 +6,7 @@
 <h3 align="center">Portfolio</h3>
 <div align="center">
   <a href="https://www.notion.so/Hello-I-m-Mijin-Kim-2511b310fe61801c9c77de7957baed5b?source=copy_link">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=#FFFFFF">
+    <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black">
   </a>
 </div>
 <br>
